@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+    box-sizing: border-box;
+}
+.header{
+    background-color: #007bff;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+a{
+    margin-right: 200px;
+}
+.search{
+    margin-top: 20px;
+}
+p{
+    
+}
+
+
+
+
